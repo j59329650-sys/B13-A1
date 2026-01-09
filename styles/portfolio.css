@@ -96,6 +96,15 @@ nav {
     margin-top:  50px;
     
 }
+.card {
+    background: #ffffff;
+    padding:  30px;
+    border-radius:  12px;
+    text-align: center;
+    box-shadow: 0 10px 30px rgba(0, 0,0,0.05);
+    border: 1px solid  #f0f0f0;transition:  transfrom 0.3s ease;
+}
+
     
     
 
